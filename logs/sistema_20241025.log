@@ -1,0 +1,24 @@
+2024-10-25 00:01:18,407 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-25 00:01:19,570 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-25 00:01:19,584 - INFO - System started
+2024-10-25 00:01:51,622 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\0\ChatGPT\♾️.ahk 
+2024-10-25 00:04:26,011 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-25 00:13:15,715 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-25 00:13:45,790 - ERROR - General message handling error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2024-10-25 00:17:37,161 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-25 00:17:37,933 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-25 00:17:37,938 - INFO - System started
+2024-10-25 00:17:58,452 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-25 00:17:58,469 - INFO - Starting chained script: C:\Users\54115\Desktop\Omni\ModulosScripts🧩\🎥GrabacionTranscripcionn\GrabacionTranscripcion.py
+2024-10-25 00:17:58,520 - INFO - Recording started
+2024-10-25 00:20:50,673 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\0\ChatGPT\♾️.ahk 
+2024-10-25 00:29:57,644 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-25 00:29:58,769 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-25 00:29:58,772 - INFO - System started
+2024-10-25 00:52:30,173 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-25 00:52:30,736 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-25 00:52:30,754 - INFO - System started
+2024-10-25 00:52:48,285 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\0\ChatGPT\♾️.ahk 
+2024-10-25 00:53:41,391 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\0\ChatGPT\♾️.ahk 
+2024-10-25 00:54:02,765 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\1\ChatGPT\NicolasFronteras.ahk 
+2024-10-25 00:54:28,826 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\1\ChatGPT\NicolasFronteras.ahk 

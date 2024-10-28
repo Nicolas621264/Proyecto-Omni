@@ -1,0 +1,33 @@
+2024-10-19 04:54:31,308 - DEBUG - Using proactor: IocpProactor
+2024-10-19 04:54:31,456 - ERROR - Prompt loading error: [Errno 2] No such file or directory: 'C:\\Users\\54115\\Desktop\\Omni\\Promp\\Acciones\\Asistente.txt'
+2024-10-19 04:54:31,459 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-19 04:54:31,461 - DEBUG - load_verify_locations cafile='C:\\Users\\54115\\Desktop\\Omni\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-10-19 04:54:31,763 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-19 04:54:31,764 - DEBUG - load_verify_locations cafile='C:\\Users\\54115\\Desktop\\Omni\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-10-19 04:54:32,096 - ERROR - Bot startup error: There is no current event loop in thread 'Thread-4 (start)'.
+2024-10-19 04:55:12,963 - DEBUG - Using proactor: IocpProactor
+2024-10-19 04:55:13,073 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-19 04:55:13,075 - DEBUG - load_verify_locations cafile='C:\\Users\\54115\\Desktop\\Omni\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-10-19 04:55:13,318 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-19 04:55:13,319 - DEBUG - load_verify_locations cafile='C:\\Users\\54115\\Desktop\\Omni\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-10-19 04:55:13,569 - ERROR - Bot startup error: There is no current event loop in thread 'Thread-4 (start)'.
+2024-10-19 05:00:42,034 - DEBUG - Using proactor: IocpProactor
+2024-10-19 05:00:42,046 - INFO - Monitor de píxeles iniciado
+2024-10-19 05:00:42,259 - INFO - Atajos de teclado configurados
+2024-10-19 05:00:42,261 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-19 05:00:42,261 - INFO - Manejador de Telegram iniciado
+2024-10-19 05:00:42,263 - INFO - Sistema iniciado completamente
+2024-10-19 05:00:42,264 - DEBUG - load_verify_locations cafile='C:\\Users\\54115\\Desktop\\Omni\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-10-19 05:00:42,542 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-19 05:00:42,576 - DEBUG - load_verify_locations cafile='C:\\Users\\54115\\Desktop\\Omni\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2024-10-19 05:00:42,835 - ERROR - Error al iniciar bot: There is no current event loop in thread 'Thread-4 (start)'.
+2024-10-19 05:00:48,853 - INFO - Sistema detenido
+2024-10-19 05:01:45,655 - DEBUG - Using proactor: IocpProactor
+2024-10-19 05:01:45,658 - ERROR - Error del sistema: Script no encontrado: c:\Users\54115\Desktop\Omni\Scripts Ahk\Windows\RecargasChatGPT.ahk
+2024-10-19 05:01:45,659 - INFO - Sistema detenido correctamente
+2024-10-19 05:06:46,591 - DEBUG - Using proactor: IocpProactor
+2024-10-19 05:06:46,596 - ERROR - Error del sistema: 'TelegramHandler' object has no attribute 'load_prompt'
+2024-10-19 05:06:46,597 - INFO - Sistema detenido correctamente
+2024-10-19 05:07:19,140 - DEBUG - Using proactor: IocpProactor
+2024-10-19 05:07:19,142 - ERROR - Error del sistema: 'TelegramHandler' object has no attribute 'load_prompt'
+2024-10-19 05:07:19,143 - INFO - Sistema detenido correctamente

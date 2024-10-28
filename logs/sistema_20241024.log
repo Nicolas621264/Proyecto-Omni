@@ -1,0 +1,103 @@
+2024-10-24 00:22:08,596 - INFO - Hotkey ctrl+alt+4 set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\TomarDatosPixel.ahk
+2024-10-24 00:22:08,599 - INFO - Hotkey ctrl+alt+3 set up for script: C:\Users\54115\Desktop\Omni\H💚\Organizacion\PosicionarDEX.ahk
+2024-10-24 00:22:08,599 - INFO - Hotkey ctrl+alt+f set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\PrimerPlano.ahk
+2024-10-24 00:22:08,600 - ERROR - Ruta de script inválida para script_horario: C:/ruta/script_diario.ahk
+2024-10-24 00:22:08,601 - ERROR - Ruta de script inválida para script_diario: C:/ruta/script_diario.ahk
+2024-10-24 00:22:08,603 - ERROR - Ruta de script inválida para script_personalizado: C:/ruta/script_personalizado.ahk
+2024-10-24 00:22:10,971 - ERROR - Error executing script C:\Users\54115\Desktop\Omni: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:22:11,780 - ERROR - Error executing script C:\Users\54115\Desktop\Omni: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:22:11,791 - INFO - Sistema iniciado exitosamente
+2024-10-24 00:22:11,792 - INFO - Iniciando bot de Telegram...
+2024-10-24 00:23:19,458 - INFO - Received query from Telegram: nesesito una llamda
+2024-10-24 00:23:20,363 - INFO - API Response: LLAMAR
+2024-10-24 00:23:20,364 - INFO - Executing script 'C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk' based on API response.
+2024-10-24 00:23:24,962 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-24 00:25:37,257 - INFO - Hotkey ctrl+alt+4 set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\TomarDatosPixel.ahk
+2024-10-24 00:25:37,259 - INFO - Hotkey ctrl+alt+3 set up for script: C:\Users\54115\Desktop\Omni\H💚\Organizacion\PosicionarDEX.ahk
+2024-10-24 00:25:37,260 - INFO - Hotkey ctrl+alt+f set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\PrimerPlano.ahk
+2024-10-24 00:25:37,262 - ERROR - Ruta de script inválida para script_horario: C:/ruta/script_diario.ahk
+2024-10-24 00:25:37,263 - ERROR - Ruta de script inválida para script_diario: C:/ruta/script_diario.ahk
+2024-10-24 00:25:37,264 - ERROR - Ruta de script inválida para script_personalizado: C:/ruta/script_personalizado.ahk
+2024-10-24 00:25:39,418 - ERROR - Error executing script C:\Users\54115\Desktop\Omni: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:25:40,538 - ERROR - Error executing script C:\Users\54115\Desktop\Omni: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:25:40,560 - INFO - Sistema iniciado exitosamente
+2024-10-24 00:25:40,575 - INFO - Iniciando bot de Telegram...
+2024-10-24 00:25:49,118 - INFO - Received query from Telegram: nesesito una llamda
+2024-10-24 00:25:49,963 - INFO - API Response: LLAMAR
+2024-10-24 00:25:49,964 - INFO - Executing script 'C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk' based on API response.
+2024-10-24 00:25:54,617 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-24 00:35:20,982 - INFO - Hotkey ctrl+alt+4 set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\TomarDatosPixel.ahk
+2024-10-24 00:35:20,983 - INFO - Hotkey ctrl+alt+3 set up for script: C:\Users\54115\Desktop\Omni\H💚\Organizacion\PosicionarDEX.ahk
+2024-10-24 00:35:20,984 - INFO - Hotkey ctrl+alt+f set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\PrimerPlano.ahk
+2024-10-24 00:35:20,984 - INFO - Hotkey ctrl+alt+7 set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\PrimerPlano.ahk
+2024-10-24 00:35:20,986 - ERROR - Ruta de script inválida para script_horario: C:/ruta/script_diario.ahk
+2024-10-24 00:35:20,987 - ERROR - Ruta de script inválida para script_diario: C:/ruta/script_diario.ahk
+2024-10-24 00:35:20,988 - ERROR - Ruta de script inválida para script_personalizado: C:/ruta/script_personalizado.ahk
+2024-10-24 00:35:23,871 - ERROR - Error executing script C:\Users\54115\Desktop\Omni: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:35:24,822 - ERROR - Error executing script C:\Users\54115\Desktop\Omni: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:35:24,848 - INFO - Sistema iniciado exitosamente
+2024-10-24 00:35:24,865 - INFO - Iniciando bot de Telegram...
+2024-10-24 00:35:27,467 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\Herramientas\PrimerPlano.ahk 
+2024-10-24 00:36:33,282 - INFO - Scripts programados detenidos
+2024-10-24 00:36:33,298 - INFO - Programa terminado
+2024-10-24 00:36:40,328 - INFO - Hotkey ctrl+alt+4 set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\TomarDatosPixel.ahk
+2024-10-24 00:36:40,329 - INFO - Hotkey ctrl+alt+3 set up for script: C:\Users\54115\Desktop\Omni\H💚\Organizacion\PosicionarDEX.ahk
+2024-10-24 00:36:40,331 - INFO - Hotkey ctrl+alt+f set up for script: C:\Users\54115\Desktop\Omni\H💚\Herramientas\PrimerPlano.ahk
+2024-10-24 00:36:40,333 - INFO - Hotkey ctrl+alt+7 set up for script: C:\Users\54115\Desktop\Omni\H💚\7\grabacion.ahk
+2024-10-24 00:36:40,334 - ERROR - Ruta de script inválida para script_horario: C:/ruta/script_diario.ahk
+2024-10-24 00:36:40,335 - ERROR - Ruta de script inválida para script_diario: C:/ruta/script_diario.ahk
+2024-10-24 00:36:40,336 - ERROR - Ruta de script inválida para script_personalizado: C:/ruta/script_personalizado.ahk
+2024-10-24 00:36:42,613 - ERROR - Error executing script C:\Users\54115\Desktop\Omni: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:36:43,286 - ERROR - Error executing script C:\Users\54115\Desktop\Omni: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:36:43,292 - INFO - Sistema iniciado exitosamente
+2024-10-24 00:36:43,293 - INFO - Iniciando bot de Telegram...
+2024-10-24 00:36:45,104 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\7\grabacion.ahk 
+2024-10-24 00:36:52,896 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\7\grabacion.ahk 
+2024-10-24 00:41:57,346 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:41:58,143 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:41:58,144 - INFO - System started
+2024-10-24 00:42:42,636 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-24 00:43:39,259 - ERROR - Error processing YouTube video: name 'sys' is not defined
+2024-10-24 00:45:34,613 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:45:35,163 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 00:45:35,164 - INFO - System started
+2024-10-24 01:09:09,086 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 01:09:09,617 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 01:09:09,620 - INFO - System started
+2024-10-24 01:09:32,384 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-24 01:09:32,401 - INFO - Starting chained script: C:\Users\54115\Desktop\Omni\ModulosScripts🧩\🎥GrabacionTranscripcionn\GrabacionTranscripcion.py
+2024-10-24 01:09:32,416 - INFO - Recording started
+2024-10-24 01:09:53,830 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-24 01:09:53,846 - INFO - Stopping chained script: C:\Users\54115\Desktop\Omni\ModulosScripts🧩\🎥GrabacionTranscripcionn\GrabacionTranscripcion.py
+2024-10-24 01:09:54,009 - INFO - Recording stopped
+2024-10-24 01:25:23,879 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 01:25:24,647 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 01:25:24,650 - INFO - System started
+2024-10-24 01:27:51,267 - INFO - File downloaded and processing: C:\Users\54115\Desktop\Omni\BaseDeDatos📁\Descargas\funciones de autohokey.txt
+2024-10-24 01:35:04,598 - ERROR - Script error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', '']' returned non-zero exit status 2.
+2024-10-24 01:35:04,616 - ERROR - Script error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', '']' returned non-zero exit status 2.
+2024-10-24 01:35:04,617 - INFO - System started
+2024-10-24 01:35:56,036 - ERROR - YouTube error: name 'sys' is not defined
+2024-10-24 01:36:07,412 - INFO - error_code=model_not_found error_message='The model `gpt-4-mini` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-10-24 01:36:07,431 - ERROR - API error: The model `gpt-4-mini` does not exist or you do not have access to it.
+2024-10-24 01:37:48,802 - ERROR - Script error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', '']' returned non-zero exit status 2.
+2024-10-24 01:37:48,821 - ERROR - Script error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', '']' returned non-zero exit status 2.
+2024-10-24 01:37:48,821 - INFO - System started
+2024-10-24 01:38:13,144 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-24 17:09:07,995 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 17:09:08,553 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 17:09:08,566 - INFO - System started
+2024-10-24 17:09:50,614 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\2\Llamar📞.ahk 
+2024-10-24 17:09:50,615 - INFO - Starting chained script: C:\Users\54115\Desktop\Omni\ModulosScripts🧩\🎥GrabacionTranscripcionn\GrabacionTranscripcion.py
+2024-10-24 17:09:50,627 - INFO - Recording started
+2024-10-24 17:13:22,025 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\0\ChatGPT\♾️.ahk 
+2024-10-24 17:38:53,732 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 17:38:54,249 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 17:38:54,251 - INFO - System started
+2024-10-24 17:39:01,869 - INFO - Script executed: C:\Users\54115\Desktop\Omni\H💚\Herramientas\PrimerPlano.ahk 
+2024-10-24 17:46:18,649 - ERROR - Error getting pixel color: Could not get pixel value.
+2024-10-24 17:46:18,651 - ERROR - Error getting pixel color: Could not get pixel value.
+2024-10-24 20:55:52,592 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 20:55:53,444 - ERROR - Script execution error: Command '['C:\\Program Files\\AutoHotkey\\AutoHotkey.exe', 'C:\\Users\\54115\\Desktop\\Omni']' returned non-zero exit status 2.
+2024-10-24 20:55:53,448 - INFO - System started
+2024-10-24 20:56:48,064 - ERROR - Error getting pixel color: Could not get pixel value.

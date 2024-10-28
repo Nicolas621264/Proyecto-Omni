@@ -1,0 +1,84 @@
+{
+    "RUTA_AHK": "C:\\Program Files\\AutoHotkey\\AutoHotkey.exe",
+    "DIRECTORIO_LOGS": "logs",
+    "TELEGRAM_TOKEN": "...",
+    "OPENAI_MODEL": "gpt-4o-mini",
+    "RUTA_PROMPT": "C:\\Users\\54115\\Desktop\\Omni\\Promps🤖\\Acciones.txt",
+    
+    "DIRECTORIOS": {
+        "descargas": "C:\\Users\\54115\\Desktop\\Omni\\BaseDeDatos📁\\Descargas",
+        "twitter": "C:\\Users\\54115\\Desktop\\X",
+        "playlist": "C:\\Users\\54115\\Desktop\\Playlist"
+    },
+
+    "SCRIPTS": {
+        "playlist": "C:\\Users\\54115\\Desktop\\Omni\\ModulosScripts🧩\\Descargador de playlist.py",
+        "transcription": "C:\\Users\\54115\\Desktop\\Omni\\ModulosScripts🧩\\Transcripcion y Resumen (API openai).py",
+        "recording": "C:\\Users\\54115\\Desktop\\Omni\\ModulosScripts🧩\\🎥GrabacionTranscripcionn\\GrabacionTranscripcion.py",
+        "database_loader": "C:\\Users\\54115\\Desktop\\Omni\\ModulosScripts🧩\\CargarBaseDatosVectorizada.py"
+    },
+
+    "SCRIPTS_ENCADENADOS": {
+        "C:\\Users\\54115\\Desktop\\Omni\\H💚\\2\\Llamar📞.ahk": {
+            "script_encadenado": "C:\\Users\\54115\\Desktop\\Omni\\ModulosScripts🧩\\🎥GrabacionTranscripcionn\\GrabacionTranscripcion.py"
+        }
+    },
+
+    "PIXELES_MONITOREAR": {
+        "Recargas ChatGPT ♾️": {
+            "coordenadas": [416, 963],
+            "color_esperado": 16448249,
+            "ruta_script": "Scripts Ahk\\Windows\\RecargasChatGPT.ahk"
+        },
+        "Recargas Claude ♾️": {
+            "coordenadas": [1002, 862],
+            "color_esperado": 2697534,
+            "ruta_script": "Scripts Ahk\\Windows\\RecargasClaude.ahk"
+        
+        },
+        "Copiar Repuestas ChatGPT Personal": {
+            "coordenadas": [1019, 950],
+            "color_inicial": 0,
+            "color_final": 6776679,
+            "accion": "ctrl+shift+c"
+        }
+    },
+
+    "PATRONES_URL": {
+        "youtube_video": [
+            "https?://(?:www\\.)?youtube\\.com/watch\\?v=[\\w-]+",
+            "https?://youtu\\.be/[\\w-]+"
+        ],
+        "playlist": [
+            "https?://(?:www\\.)?youtube\\.com/playlist\\?list=",
+            "https?://(?:www\\.)?youtube\\.com/watch\\?v=[\\w-]+&list=",
+            "https?://(?:www\\.)?soundcloud\\.com/[\\w-]+/sets/[\\w-]+",
+            "https?://open\\.spotify\\.com/playlist/[\\w]+"
+        ]
+    },
+
+    "TECLAS_RAPIDAS": {
+        "ctrl+alt+4": "C:\\Users\\54115\\Desktop\\Omni\\H💚\\Herramientas\\TomarDatosPixel.ahk",
+        "ctrl+alt+f": "C:\\Users\\54115\\Desktop\\Omni\\H💚\\Herramientas\\PrimerPlano.ahk"
+    }, 
+
+    "SCRIPTS_AL_INICIO": [
+        "",
+        ""
+    ],
+
+    "GRUPOS_MONITOREADOS": {
+        "-1002243990322": "Whatsapp"
+    },
+
+    "AHK_SCRIPTS": {
+        "ESCRIBIR": "Scripts Ahk\\0\\ChatGPT\\Escribir.ahk",
+        "LLAMAR": "C:\\Users\\54115\\Desktop\\Omni\\H💚\\2\\Llamar📞.ahk",
+        "RAZONAR": "C:\\Users\\54115\\Desktop\\Omni\\H💚\\1\\ChatGPT\\NicolasFronteras.ahk",
+        "PROGRAMAR": "Scripts Ahk\\1\\Claude\\CLaude pegar contenido atajo.ahk",
+        "PEGAR_Y_COPIAR": "C:\\Users\\54115\\Desktop\\Omni\\H💚\\0\\ChatGPT\\♾️.ahk"
+    },
+    "PYTHON_SCRIPTS": {
+        "INFORMACION": "C:\\Users\\54115\\Desktop\\Omni\\ModulosScripts🧩\\ContextoVectorizado.py"
+    }
+}
